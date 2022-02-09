@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-n-graphql",
+  "version": "1.0.0",
+  "description": "nodejs-the-complete-guide",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-custom": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasxd245/nodejs-n-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasxd245/nodejs-n-graphql/issues"
+  },
+  "homepage": "https://github.com/pasxd245/nodejs-n-graphql#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
